@@ -28,6 +28,9 @@ https://docs.microsoft.com/zh-tw/azure/container-registry/container-registry-tas
 https://github.com/MicrosoftDocs/azure-docs.zh-tw/tree/master/articles
 
 
+docker-compose.yml wordpress
+https://docs.docker.com/compose/wordpress/
+https://upcloud.com/community/tutorials/deploy-wordpress-with-docker-compose/
 
 
 '''
